@@ -2,3 +2,31 @@
 
 @import "AdminLTE";
 @import "skins/skin-blue-light";
+
+.hero {
+	height: 40em;
+	border: 1px solid red;
+	text-align: center;
+	
+	h1 {
+		margin: 7em auto 1.5em auto;
+		border: 1px solid red;
+	}
+
+	button {
+		background-color: none;
+		padding: 0.5em 1.5em;
+		border: 1px solid red;
+	}
+}
+
+.section {
+	border: 1px solid red;
+	text-align: center;
+	
+	h2 {
+		border: 1px solid red;
+		text-align: center;
+		margin: 2em auto;
+	}
+}
